@@ -1,7 +1,7 @@
 {
   "name": "weekly",
   "version": "1.0.0",
-  "description": "前端界的好文精读，每周更新！",
+  "description": "前端界的好文精读，每周更新！！！",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
